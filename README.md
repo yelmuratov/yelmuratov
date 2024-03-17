@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yelmuratov
+- 👀 I’m interested in Javascript, ReactJs, React Native
+- 🌱 I’m currently learning Javasctipt, Reactjs, React Native
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me yelimuratovsalimbay@gmail.com
