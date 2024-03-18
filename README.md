@@ -1,8 +1,6 @@
-<p align="center"><img width="100%" src="./assets/header.png" /></p>
+### Hi there, I am Salimbay👋
 
-### Hi there, I am Li Jianan👋
-
-> A Front end developer from **HangZhou, China**.
+> A Front end developer from **Tashkent, Uzbekistan**.
 
 ### 🏗️ Learning:
 
@@ -16,7 +14,3 @@
 
 - **E-mail** : yelimuratovsalimbay@gmail.com
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-### 📈 Activity Graph:
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=li-jia-nan&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)
