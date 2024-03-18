@@ -10,6 +10,7 @@
 <code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 <code><img src="https://img.shields.io/badge/reactnative-%2335495e.svg?style=for-the-badge&logo=react&logoColor=%234FC08D"/></code>
+<code><img src="https://img.shields.io/badge/nextjs-%2335495e.svg?style=for-the-badge&logo=next&logoColor=%234FC08D"/></code>
 
 ### 📫 Reach me:
 
