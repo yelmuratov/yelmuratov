@@ -28,10 +28,10 @@ I'm a **Software Engineering Student** focused on creating AI-driven application
 
 ### 🌱 Recent Projects:
 
-- **TrafficAI**: Intelligent Traffic Control System using Q-learning and SUMO for urban traffic optimization.
-- **Green-Chain-PLI-Hackathon-2.0**: Blockchain-based carbon management platform with AI-driven CO2 analysis.
-- **Green Aral Sea Platform**: Reforestation awareness platform with AI-enhanced data visualization.
-- **NeuroMark (In Progress)**: AI marketplace enabling small businesses to leverage AI models.
+- **[Quinx](https://github.com/yelmuratov/Quinx)**: A blockchain-based project with smart contracts and a full-stack setup.
+- **[TrafficAI](https://github.com/Aral-Tech/Traffic-ai)**: Intelligent Traffic Control System using Q-learning and SUMO for urban traffic optimization.
+- **[Green Aral Sea Platform](https://github.com/yelmuratov/newgreenaralsea.org)**: Reforestation awareness platform with AI-enhanced data visualization.
+- **[NeuroMark (AI Marketplace)](https://github.com/yelmuratov/Ai-Marketplace)**: AI marketplace enabling small businesses to leverage AI models.
 
 ### 📫 How to Reach Me:
 
