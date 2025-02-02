@@ -4,4 +4,4 @@
 
 - **Email**: yelimuratovsalimbay@gmail.com
 - **GitHub**: [yelmuratov](https://github.com/yelmuratov)
-- **LinkedIn**: [Salimbay Elimuratov](https://www.linkedin.com/in/salimbay-elmuratov)
+- **LinkedIn**: [Salimbay Elimuratov](https://www.linkedin.com/in/salimbayelmuratov/)
