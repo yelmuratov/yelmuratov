@@ -1,6 +1,6 @@
-### Hi there, I'm Salimbay 👋
+🎯 Seeking knowledge, building solutions 💡
 
-> A passionate **Full-Stack Developer** and **AI Enthusiast** from **Karakalpakstan, Uzbekistan** dedicated to building sustainable and impactful technology solutions.
+![Profile Views](https://komarev.com/ghpvc/?username=yelmuratov&color=blue)
 
 - **Email**: yelimuratovsalimbay@gmail.com
 - **GitHub**: [yelmuratov](https://github.com/yelmuratov)
