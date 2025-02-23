@@ -1,6 +1,6 @@
 🎯 Seeking knowledge, building solutions 💡
 
-![Profile Views](https://komarev.com/ghpvc/?username=yelmuratov&color=blue)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yelmuratov/&title=Profile%20Views)
 
 - **Email**: yelimuratovsalimbay@gmail.com
 - **GitHub**: [yelmuratov](https://github.com/yelmuratov)
