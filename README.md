@@ -1,3 +1,3 @@
-- **Email**: yelimuratovsalimbay@gmail.com  
+- **Email**: gmail@salimbay.com 
 - **GitHub**: [yelmuratov](https://github.com/yelmuratov)  
 - **LinkedIn**: [Salimbay Elimuratov](https://www.linkedin.com/in/salimbayelmuratov/)  
