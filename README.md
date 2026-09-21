@@ -2,13 +2,12 @@
 
 <img src="https://stats.salimbay.com/" width="620" alt="terminal" />
 
-<br/><br/>
+<br/>
 
-<h3>Contact</h3>
-
-<a href="mailto:gmail@salimbay.com"><b>Email</b></a> &nbsp;•&nbsp;
-<a href="https://github.com/yelmuratov"><b>GitHub</b></a> &nbsp;•&nbsp;
-<a href="https://www.linkedin.com/in/salimbayelmuratov/"><b>LinkedIn</b></a>
+<sub>
+<a href="mailto:gmail@salimbay.com">email</a> ·
+<a href="https://www.linkedin.com/in/salimbayelmuratov/">linkedin</a>
+</sub>
 
 <br/><br/>
 
