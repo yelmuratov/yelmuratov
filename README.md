@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://stats.salimbay.com/" width="620" alt="terminal" />
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=yelmuratov&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 <br/><br/>
