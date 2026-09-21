@@ -11,6 +11,6 @@
 
 <br/><br/>
 
-<sub>terminal above is a Cloudflare Worker generating animated SVG — contributions, streaks and views are live</sub>
+<img src="https://stats.salimbay.com/stats" width="620" alt="stats" />
 
 </div>
