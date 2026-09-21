@@ -9,8 +9,4 @@
 <a href="https://www.linkedin.com/in/salimbayelmuratov/">linkedin</a>
 </sub>
 
-<br/><br/>
-
-<img src="https://stats.salimbay.com/stats" width="620" alt="stats" />
-
 </div>
